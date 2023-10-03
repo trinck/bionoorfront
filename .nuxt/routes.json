@@ -1,0 +1,310 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_6bac303e"
+  },
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_22e37b05"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_87ef75ce"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_de2b024a"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_017e0620"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_761a8abf"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_56a6655c"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\index.vue",
+    "chunkName": "pages/my-account/index",
+    "_name": "_ba03a2a2"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_310de57e"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_110b1b6c"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_7161fd45"
+  },
+  {
+    "name": "vendor-dashboard",
+    "path": "/vendor-dashboard",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\index.vue",
+    "chunkName": "pages/vendor-dashboard/index",
+    "_name": "_6046a668"
+  },
+  {
+    "name": "blog-blog-2",
+    "path": "/blog/blog-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\blog\\\\blog-2.vue",
+    "chunkName": "pages/blog/blog-2",
+    "_name": "_4f0aff10"
+  },
+  {
+    "name": "blog-blog-3",
+    "path": "/blog/blog-3",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\blog\\\\blog-3.vue",
+    "chunkName": "pages/blog/blog-3",
+    "_name": "_4f191691"
+  },
+  {
+    "name": "blog-blog-single-2",
+    "path": "/blog/blog-single-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\blog\\\\blog-single-2.vue",
+    "chunkName": "pages/blog/blog-single-2",
+    "_name": "_303f0802"
+  },
+  {
+    "name": "cart-cart-2",
+    "path": "/cart/cart-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\cart\\\\cart-2.vue",
+    "chunkName": "pages/cart/cart-2",
+    "_name": "_d9c59ae8"
+  },
+  {
+    "name": "cart-cart-3",
+    "path": "/cart/cart-3",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\cart\\\\cart-3.vue",
+    "chunkName": "pages/cart/cart-3",
+    "_name": "_d9a96be6"
+  },
+  {
+    "name": "cart-cart-4",
+    "path": "/cart/cart-4",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\cart\\\\cart-4.vue",
+    "chunkName": "pages/cart/cart-4",
+    "_name": "_d98d3ce4"
+  },
+  {
+    "name": "cart-empty-cart",
+    "path": "/cart/empty-cart",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\cart\\\\empty-cart.vue",
+    "chunkName": "pages/cart/empty-cart",
+    "_name": "_2e640467"
+  },
+  {
+    "name": "contact-us-contact-us-2",
+    "path": "/contact-us/contact-us-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\contact-us\\\\contact-us-2.vue",
+    "chunkName": "pages/contact-us/contact-us-2",
+    "_name": "_587ee3a2"
+  },
+  {
+    "name": "my-account-account-details",
+    "path": "/my-account/account-details",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\account-details.vue",
+    "chunkName": "pages/my-account/account-details",
+    "_name": "_28d5ae3f"
+  },
+  {
+    "name": "my-account-account-info-edit",
+    "path": "/my-account/account-info-edit",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\account-info-edit.vue",
+    "chunkName": "pages/my-account/account-info-edit",
+    "_name": "_23358306"
+  },
+  {
+    "name": "my-account-addresses",
+    "path": "/my-account/addresses",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\addresses.vue",
+    "chunkName": "pages/my-account/addresses",
+    "_name": "_7203eeff"
+  },
+  {
+    "name": "my-account-checkout-1",
+    "path": "/my-account/checkout-1",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\checkout-1.vue",
+    "chunkName": "pages/my-account/checkout-1",
+    "_name": "_7509dddd"
+  },
+  {
+    "name": "my-account-checkout-2",
+    "path": "/my-account/checkout-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\checkout-2.vue",
+    "chunkName": "pages/my-account/checkout-2",
+    "_name": "_7517f55e"
+  },
+  {
+    "name": "my-account-compare",
+    "path": "/my-account/compare",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\compare.vue",
+    "chunkName": "pages/my-account/compare",
+    "_name": "_9b0bf7fc"
+  },
+  {
+    "name": "my-account-downloads",
+    "path": "/my-account/downloads",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\downloads.vue",
+    "chunkName": "pages/my-account/downloads",
+    "_name": "_fb102070"
+  },
+  {
+    "name": "my-account-order-tracking",
+    "path": "/my-account/order-tracking",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\order-tracking.vue",
+    "chunkName": "pages/my-account/order-tracking",
+    "_name": "_45e9fb49"
+  },
+  {
+    "name": "my-account-orders",
+    "path": "/my-account/orders",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\orders.vue",
+    "chunkName": "pages/my-account/orders",
+    "_name": "_7dfed150"
+  },
+  {
+    "name": "my-account-wishlist",
+    "path": "/my-account/wishlist",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\my-account\\\\wishlist.vue",
+    "chunkName": "pages/my-account/wishlist",
+    "_name": "_f1da6110"
+  },
+  {
+    "name": "product-product-single-2",
+    "path": "/product/product-single-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\product\\\\product-single-2.vue",
+    "chunkName": "pages/product/product-single-2",
+    "_name": "_148dc0a3"
+  },
+  {
+    "name": "product-product-single-3",
+    "path": "/product/product-single-3",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\product\\\\product-single-3.vue",
+    "chunkName": "pages/product/product-single-3",
+    "_name": "_149bd824"
+  },
+  {
+    "name": "shop-shop-2",
+    "path": "/shop/shop-2",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\shop\\\\shop-2.vue",
+    "chunkName": "pages/shop/shop-2",
+    "_name": "_08cf28b8"
+  },
+  {
+    "name": "shop-shop-3",
+    "path": "/shop/shop-3",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\shop\\\\shop-3.vue",
+    "chunkName": "pages/shop/shop-3",
+    "_name": "_08dd4039"
+  },
+  {
+    "name": "shop-shop-4",
+    "path": "/shop/shop-4",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\shop\\\\shop-4.vue",
+    "chunkName": "pages/shop/shop-4",
+    "_name": "_08eb57ba"
+  },
+  {
+    "name": "shop-shop-5",
+    "path": "/shop/shop-5",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\shop\\\\shop-5.vue",
+    "chunkName": "pages/shop/shop-5",
+    "_name": "_08f96f3b"
+  },
+  {
+    "name": "vendor-dashboard-add-product",
+    "path": "/vendor-dashboard/add-product",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\add-product.vue",
+    "chunkName": "pages/vendor-dashboard/add-product",
+    "_name": "_4817c9bd"
+  },
+  {
+    "name": "vendor-dashboard-order",
+    "path": "/vendor-dashboard/order",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\order.vue",
+    "chunkName": "pages/vendor-dashboard/order",
+    "_name": "_2eb12570"
+  },
+  {
+    "name": "vendor-dashboard-product",
+    "path": "/vendor-dashboard/product",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\product.vue",
+    "chunkName": "pages/vendor-dashboard/product",
+    "_name": "_3d462c2e"
+  },
+  {
+    "name": "vendor-dashboard-profile",
+    "path": "/vendor-dashboard/profile",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\profile.vue",
+    "chunkName": "pages/vendor-dashboard/profile",
+    "_name": "_44dcb9a3"
+  },
+  {
+    "name": "vendor-dashboard-setting",
+    "path": "/vendor-dashboard/setting",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\vendor-dashboard\\\\setting.vue",
+    "chunkName": "pages/vendor-dashboard/setting",
+    "_name": "_32fc92ca"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0b052a3b"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_8b5cb85e"
+  },
+  {
+    "name": "product-id",
+    "path": "/product/:id?",
+    "component": "C:\\\\Users\\\\marct\\\\OneDrive\\\\Bureau\\\\BionoorVueJS\\\\pages\\\\product\\\\_id.vue",
+    "chunkName": "pages/product/_id",
+    "_name": "_874e725c"
+  }
+]
